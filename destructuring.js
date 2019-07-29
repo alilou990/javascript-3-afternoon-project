@@ -14,7 +14,7 @@ var carDetails = {
   make: 'toyota',
   model: 'tacoma',
   year: 1994
-}
+};
 // Do not edit the code above.
 
 /*
@@ -39,7 +39,7 @@ function greeting( obj ) {
   // Do not edit the code below.
   return 'Hello, ' + title + ' ' + firstName + ' ' + lastName + '!';
   // Do not edit the code above.
-}
+};
 
 
 

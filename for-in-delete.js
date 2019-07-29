@@ -64,7 +64,7 @@ function greaterThan10(obj){
     }
   }
   return obj;
-}
+};
 
 
 

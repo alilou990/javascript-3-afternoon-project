@@ -60,7 +60,7 @@ function employeeUpdater(){
 
   }
   return employees
-}
+};
 
 
 
